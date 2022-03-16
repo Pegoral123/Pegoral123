@@ -1,7 +1,7 @@
 ### Olá! Sou o jhonathan Pegoral 👋
 
 - 🌱 Estou aprendendo a programar em HTML,CSS E JAVASCRIPT
-- 👯 Estou procurando colaborar em Projetos para meu crecimento como programador 
+- 👯 Estou procurando colaborar em Projetos para meu crescimento como programador 
 - 📫 E-mail de contato: jhonathanpegoral123@gmail.com
 - 😄 Pronomes: Ele/dele
 - ⚡ Curiosidade: Sempre estou me surpreendendo e inovando.
