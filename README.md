@@ -20,7 +20,7 @@
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-     <img align="center" height="40" width="50" hrf="https://www.linkedin.com/in/jhonathan-pegoral-462165222/"  src=" https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+     <img align="center" height="40" width="50"   src=" https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    
      <img align="right" alt="Pegoral" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/930102919838175272/937377083267612732/download20220100130017.png">
   </div>
