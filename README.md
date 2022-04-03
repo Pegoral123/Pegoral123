@@ -1,9 +1,9 @@
 ### Olá! Sou o jhonathan Pegoral 👋
 
-- 🌱 No momento estou aprendendo banco de dados com linguaguem de programação PHP
-- 👯 Estou procurando colaborar em Projetos para meu crescimento como programador 
-- 📫 E-mail de contato: jhonathanpegoral123@gmail.com
-- 😄 Pronomes: Ele/dele
+- 🌱 No momento estou aprendendo mySQL e PHP.
+- 👯 Estou procurando colaborar em Projetos para meu crescimento como programador. 
+- 📫 E-mail de contato: jhonathanpegoral123@gmail.com.
+- 😄 Pronomes: Ele/dele.
 - ⚡ Curiosidade: Sempre estou me surpreendendo e inovando.
 
 
