@@ -1,6 +1,6 @@
 ### Olá! Sou o jhonathan Pegoral 👋
 
-- 🌱 No momento estou aprendendo mySQL e PHP.
+- 🌱 No momento estou fazendo Santander Bootcamp Fullstack Developer.
 - 👯 Estou procurando colaborar em Projetos para meu crescimento como programador. 
 - 📫 E-mail de contato: jhonathanpegoral123@gmail.com.
 - 😄 Pronomes: Ele/dele.
