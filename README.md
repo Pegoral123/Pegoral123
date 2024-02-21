@@ -1,10 +1,9 @@
 ### Olá! Sou o jhonathan Pegoral 👋
 
-- 🌱 No momento estou sendo melhor do que fui ontem.
+- 🌱 No momento estou cursando Análise e desenvolvimento de sistemas.
 - 👯 Estou procurando colaborar em Projetos para meu crescimento como programador. 
 - 📫 E-mail de contato: jhonathanpegoral123@gmail.com.
-- 😄 Pronomes: Ele/dele.
-- ⚡ Curiosidade: Sempre estou me surpreendendo e inovando.
+- ⚡ Curiosidade: Sempre estou surpreendendo e inovando.
 
 
 <div align="center">
@@ -36,7 +35,6 @@
   <a href = "mailto:jhonathanpegoral123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhonathan-pegoral-462165222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
