@@ -36,6 +36,9 @@
   <a href="https://www.linkedin.com/in/jhonathan-pegoral-462165222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   <img align="right" alt="Roberta-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/10570920?v=4">
+
+![Snake animation](https://github.com/Pegoral123/Pegoral123/blob/output/github-contribution-grid-snake.svg)
+
 </div>
  
   
