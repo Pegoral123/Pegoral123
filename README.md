@@ -1,9 +1,9 @@
-### Olá! Sou o jhonathan Pegoral 👋
+###E aí! Eu sou o Jhonathan Pegoral 👋
 
-- 🌱 No momento estou cursando Análise e desenvolvimento de sistemas.
-- 👯 Estou procurando colaborar em Projetos para meu crescimento como programador. 
-- 📫 E-mail de contato: jhonathanpegoral123@gmail.com.
-- ⚡ Curiosidade: Sempre estou surpreendendo e inovando.
+🚀 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+🤝 Estou buscando oportunidades para colaborar em projetos que me ajudem a crescer como programador.
+📬 Fale comigo pelo e-mail: jhonathanpegoral123@gmail.com.
+🌟 Curiosidade: Adoro surpreender e inovar constantemente.
 
 
 <div align="center">
