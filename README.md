@@ -1,4 +1,4 @@
-## E aí! Eu sou o Jhonathan Pegoral 👋
+## E aí! Eu sou o Jhonathan Pegoral 😄 Prazer!
 
 -🚀 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas
 
