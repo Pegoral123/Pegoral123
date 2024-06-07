@@ -37,7 +37,7 @@
  
   <img align="right" alt="Roberta-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/10570920?v=4">
 
-![Snake animation](https://github.com/Pegoral123/Pegoral123/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation]([https://github.com/Pegoral123/Pegoral123/blob/output/github-contribution-grid-snake-dark.svg](https://github.com/Pegoral123/Pegoral123/blob/output/github-contribution-grid-snake-dark.svg?color_cobra=000000))
  
   
 
