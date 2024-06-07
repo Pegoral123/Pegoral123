@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/Pegoral123">
   <![Pegoral123 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pegoral123_icons=true&theme=dracula&bgcolor=transparent)
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pegoral123&layout=compact&langs_count=7&theme=cobalt"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pegoral123&theme=dracula)](https://github.com/Pegoral123/github-readme-stats)
 </div>
  
   
