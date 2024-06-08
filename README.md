@@ -6,7 +6,7 @@
 
 -📬 Fale comigo pelo e-mail: jhonathanpegoral123@gmail.com.
 
--🌟 Curiosidade: Adoro surpreender e inovar constantemente.
+-🌟 Curiosidade: Sou resiliente, inteligente e astuto, sempre buscando surpreender e inovar constantemente..
 
 
 <div align="center">
