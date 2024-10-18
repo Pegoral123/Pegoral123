@@ -1,13 +1,8 @@
-## E aí! Eu sou o Jhonathan Pegoral 😄 Prazer!
+## E aí! Eu sou o Jhonathan Pegoral ![Sorrindo e assentindo](https://media.giphy.com/media/gLZ0i94Esx4oTOfG70/giphy.gif) Prazer!
 
--🚀 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas
-
+-🚀 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e cursando a trila de data science na alura para data science
 -🤝 Estou em busca de conhecimento e sempre buscando me aprimorar como profissional.
-
 -📬 Fale comigo pelo e-mail: jhonathanpegoral123@gmail.com.
-
--🌟 Curiosidade: Sou resiliente, inteligente e astuto, sempre buscando surpreender e inovar constantemente..
-
 
 <div align="center">
   <a href="https://github.com/Pegoral123">
