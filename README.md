@@ -1,9 +1,12 @@
 ## E aí! Eu sou o Jhonathan Pegoral 😄 Prazer!
- 🚀 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e a trilha de Data Science na Alura, focando em desenvolver minhas habilidades na área de ciência de dados.
+🚀 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e a trilha de Data Science na Alura, focando em desenvolver minhas habilidades na área de ciência de dados.
 
- 🤝 Estou sempre em busca de conhecimento e buscando me aprimorar como profissional.
+🤝 Estou sempre em busca de conhecimento e buscando me aprimorar como profissional.
 
- 📬 Sinta-se à vontade para me contactar pelo e-mail: jhonathanpegoral123@gmail.com
+🐍 Minha linguagem principal é Python.
+
+📬 Sinta-se à vontade para me contactar pelo e-mail: jhonathanpegoral123@gmail.com.
+
  
 <div align="center">
   <a href="https://github.com/Pegoral123">
