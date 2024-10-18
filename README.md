@@ -36,10 +36,8 @@
   <a href="https://www.instagram.com/jhonathan_pegoral/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jhonathanpegoral123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhonathan-pegoral-462165222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  <img align="right" alt="Roberta-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/10570920?v=4">
-
 ![Snake animation](https://github.com/Pegoral123/Pegoral123/blob/output/github-contribution-grid-snake-dark.svg)
+<img align="right" alt="Roberta-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/10570920?v=4">
  
   
 
