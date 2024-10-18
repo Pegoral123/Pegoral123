@@ -32,7 +32,7 @@
   <a href = "mailto:jhonathanpegoral123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhonathan-pegoral-462165222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ![Snake animation](https://github.com/Pegoral123/Pegoral123/blob/output/github-contribution-grid-snake-dark.svg)
-![Sorrindo e assentindo](https://media.giphy.com/media/gLZ0i94Esx4oTOfG70/giphy.gif)
+<iframe src="https://giphy.com/embed/gLZ0i94Esx4oTOfG70" width="240" height="135" frameBorder="0" allowFullScreen></iframe>
  
   
 
