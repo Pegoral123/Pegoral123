@@ -24,23 +24,23 @@
     <img align="center" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
      <img align="center" height="40" width="50" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
      <img align="center" height="40" width="50" rel="stylesheet"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
-  
-         
-          
   </div>
 
   ##
-  <div> 
- 
-  <a href="https://www.instagram.com/jhonathan_pegoral/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <div align="center">
+<a href="https://www.instagram.com/jhonathan_pegoral/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jhonathanpegoral123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhonathan-pegoral-462165222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
 ![Snake animation](https://github.com/Pegoral123/Pegoral123/blob/output/github-contribution-grid-snake-dark.svg)
 <p align="center">
   <img src="https://profile-counter.glitch.me/Pegoral123/count.svg?" />
 </p>
-
+<div align="center">
 ![gojo-saturo](https://media.giphy.com/media/gLZ0i94Esx4oTOfG70/giphy.gif)
+</div>
+
  
   
 
