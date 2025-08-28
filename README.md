@@ -1,5 +1,5 @@
 ## E aí! Eu sou o Jhonathan Pegoral 😄 Prazer!
-🚀 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e a trilha de Data Science na Alura, focando em desenvolver minhas habilidades na área de ciência de dados.
+🚀 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
 🤝 Estou sempre em busca de conhecimento e buscando me aprimorar como profissional.
 
