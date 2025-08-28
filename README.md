@@ -28,14 +28,6 @@
 ##
 
 <div align="center">
-  <img src="https://github.com/Pegoral123/Pegoral123/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Pegoral123/count.svg?" />
-</p>
-
-<div align="center">
   <img src="https://media.giphy.com/media/gLZ0i94Esx4oTOfG70/giphy.gif" />
 </div>
 
