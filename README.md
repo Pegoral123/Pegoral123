@@ -1,4 +1,4 @@
-# 🌐 **Jhonathan Pegoral | Full-Stack Developer | Building Scalable Apps with Python & Vue.js**
+# ⚡ **Jhonathan Pegoral | Full-Stack Developer | Building Scalable Apps with Python & Vue.js**
 
 ## 📌 **About Me**
 - 🎓 **Undergraduate in Systems Analysis and Development** (5th semester)  
