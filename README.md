@@ -9,7 +9,7 @@
 ---
 
 ## 💻 **Core Skills**
-- **Python** – REST APIs, Clean Architecture  
+- **Python** – REST APIs, Clean Architecture, Scripting and Automation   
 - **Vue.js** – Component-based development and state management  
 - **SQL Server / MySQL** – Data modeling and complex queries  
 - **Git** – Version control and collaborative workflows  
