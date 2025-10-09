@@ -30,7 +30,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/gLZ0i94Esx4oTOfG70/giphy.gif" width="600px" />
+  <img src="https://media.giphy.com/media/gLZ0i94Esx4oTOfG70/giphy.gif" width="400px" />
 </div>
 
 ---
