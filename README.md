@@ -1,37 +1,46 @@
-## E aí! Eu sou o Jhonathan Pegoral 😄 Prazer!
-🚀 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+# 🚀 **Jhonathan Pegoral | Full-Stack Developer | Building Scalable Apps with Python & Vue.js**
 
-🤝 Estou sempre em busca de conhecimento e buscando me aprimorar como profissional.
+## 📌 **About Me**
+- 🎓 **Undergraduate in Systems Analysis and Development** (5th semester)  
+- 💡 Focused on **Full-Stack Development with Python and Vue.js**  
+- 🔗 Exploring **RESTful APIs, Relational Databases, and Clean Architecture**  
+- 🎯 Always seeking new challenges to improve my skills as a developer  
 
-🐍 Minha linguagem principal é Python.
+---
 
-📬 Sinta-se à vontade para me contactar pelo e-mail: jhonathanpegoral123@gmail.com.
-##
+## 💻 **Core Skills**
+- **Python** – REST APIs, Clean Architecture  
+- **SQL Server / MySQL** – Data modeling and complex queries  
+- **Git** – Version control and collaborative workflows  
+
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pegoral123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pegoral123&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-<div style="display: inline_block" align="center"><br>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
-  <!--ícones -->
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 </div>
 
-##
+---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/gLZ0i94Esx4oTOfG70/giphy.gif" />
+  <img src="https://media.giphy.com/media/gLZ0i94Esx4oTOfG70/giphy.gif" width="300px" />
 </div>
 
- 
+---
+
+## 📫 **Contact Me**
+
+<div align="center">
+  <a href="mailto:jhonathanpegoral123@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jhonathan-pegoral-462165222" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
   
 
 
