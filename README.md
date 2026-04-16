@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/gLZ0i94Esx4oTOfG70/giphy.gif" width="300px" />
+</div>
+
+---
+
 # ⚡ **Jhonathan Pegoral | Full-Stack Developer | Building Scalable Apps with Python & Vue.js**
 
 ## 📌 **About Me**
