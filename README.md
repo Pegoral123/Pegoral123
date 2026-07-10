@@ -20,7 +20,7 @@
  
 ## 🚀 Projetos em Destaque
  
-### 🎓 [GerenciamentoMVP](https://github.com/Pegoral123/ApiGerenciamentoMVP) *(confira o nome exato do repo)*
+### 🎓 [GerenciamentoMVP](https://github.com/Pegoral123/ApiGerenciamentoMVP) 
 Sistema de gestão de projetos acadêmicos do curso de ADS, desenvolvido durante monitoria com o Prof. Rodrigo Braga.
 - **Backend:** Python 3.11 · Django + DRF · arquitetura em camadas (**View → Serializer → Service → Model**)
 - Autenticação JWT (djangorestframework-simplejwt) com rotação e blacklist de tokens
@@ -29,7 +29,7 @@ Sistema de gestão de projetos acadêmicos do curso de ADS, desenvolvido durante
 - Documentação interativa via **Swagger/OpenAPI**
 - Testes automatizados com **pytest**
 - Em dupla com Amanda Lisbôa
-### 🌳 [Circuito Terê Verde](https://github.com/Pegoral123/circuito-tere-verde) *(confira o nome exato do repo)*
+### 🌳 [Circuito Terê Verde](https://github.com/Pegoral123/circuito-tere-verde) *(https://projeto-mvp-mobile.vercel.app/)*
 Plataforma full-stack de ecoturismo para Teresópolis-RJ, com foco em sustentabilidade.
 - **Backend:** Django + DRF · API RESTful com serialização aninhada e CORS configurado
 - **Frontend:** React + TypeScript + Vite + Tailwind CSS · aplicação **PWA**
