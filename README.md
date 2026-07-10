@@ -2,7 +2,8 @@
 
 ---
 
-# ⚡ **Jhonathan Pegoral | Full-Stack Developer | Building Scalable Apps with Python & Vue.js**
+# ⚡ **👋 Jhonathan Pegoral | Full-Stack Developer**
+**Python (Django/DRF, FastAPI) · Vue.js · C#/.NET (em estudo) · SQL**
 
 <div align="center">
   <img src="https://media.giphy.com/media/gLZ0i94Esx4oTOfG70/giphy.gif" width="400px" />
