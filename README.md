@@ -3,6 +3,7 @@
 ---
 
 # ⚡ **👋 Jhonathan Pegoral | Full-Stack Developer**
+ 
 **Python (Django/DRF, FastAPI) · Vue.js · C#/.NET (em estudo) · SQL**
 
 <div align="center">
@@ -10,19 +11,45 @@
 </div>
 
 ## 📌 **About Me**
-- 🎓 **Undergraduate in Systems Analysis and Development** (5th semester)  
-- 💡 Focused on **Full-Stack Development with Python and Vue.js**  
-- 🔗 Exploring **RESTful APIs, Relational Databases, and Clean Architecture**  
-- 🎯 Always seeking new challenges to improve my skills as a developer  
-
+ 
+- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — UNIFESO
+- 💡 Full-Stack Developer focado em **APIs REST com Python (Django/DRF, FastAPI)** e **Vue.js**
+- 🏗️ Aplico **arquitetura em camadas**, testes automatizados e deploy real em produção
+- 🎯 Em estudo: **C#/.NET Core**, ampliando atuação para o ecossistema corporativo
 ---
-
+ 
+## 🚀 Projetos em Destaque
+ 
+### 🎓 [GerenciamentoMVP](https://github.com/Pegoral123/ApiGerenciamentoMVP) *(confira o nome exato do repo)*
+Sistema de gestão de projetos acadêmicos do curso de ADS, desenvolvido durante monitoria com o Prof. Rodrigo Braga.
+- **Backend:** Python 3.11 · Django + DRF · arquitetura em camadas (**View → Serializer → Service → Model**)
+- Autenticação JWT (djangorestframework-simplejwt) com rotação e blacklist de tokens
+- **Frontend:** React 19 + Vite + Tailwind CSS + Shadcn/Radix UI
+- Banco de dados **MySQL 8.0**, ambiente totalmente containerizado com **Docker Compose**
+- Documentação interativa via **Swagger/OpenAPI**
+- Testes automatizados com **pytest**
+- Em dupla com Amanda Lisbôa
+### 🌳 [Circuito Terê Verde](https://github.com/Pegoral123/circuito-tere-verde) *(confira o nome exato do repo)*
+Plataforma full-stack de ecoturismo para Teresópolis-RJ, com foco em sustentabilidade.
+- **Backend:** Django + DRF · API RESTful com serialização aninhada e CORS configurado
+- **Frontend:** React + TypeScript + Vite + Tailwind CSS · aplicação **PWA**
+- Catálogo de parques e trilhas, painel administrativo via Django Admin
+- Deploy em produção: backend no **Render**, frontend na **Vercel**
+- Em dupla com Carlos Henrique
+### ⚔️ Elden Wiki
+Projeto pessoal full-stack, criado por paixão a Elden Ring — meu jogo favorito — para estudar e me divertir programando. Wiki colaborativa com curiosidades, teorias e discussões sobre o universo do jogo.
+- **[Elden_Wiki_Back](https://github.com/Pegoral123/Elden_Wiki_Back)** — API REST em **Python + FastAPI**, servida via Uvicorn
+- **[Elden_Wiki_Front](https://github.com/Pegoral123/Elden_Wiki_Front)** — SPA em **Vue.js**, consumo da API via **Axios**
+- Arquitetura desacoplada (client/server), Node.js como runtime do frontend
+- Roadmap: sistema de comentários e cadastro, autenticação 2FA, integração com MySQL via SQLAlchemy, deploy em nuvem (AWS/Azure/GCP)
+---
+ 
 ## 💻 **Core Skills**
-- **Python** – REST APIs, Clean Architecture, Scripting and Automation   
-- **Vue.js** – Component-based development and state management  
-- **SQL Server / MySQL** – Data modeling and complex queries  
-- **Git** – Version control and collaborative workflows  
-
+ 
+- **Backend:** Python · Django / DRF · FastAPI · C# / .NET Core *(em estudo)*
+- **Frontend:** Vue.js · React
+- **Dados:** MySQL · PostgreSQL · Firebase
+- **Práticas:** Git / GitHub Flow · Docker · CI/CD · Testes automatizados (pytest) · Deploy (Railway, Render, Vercel)
 ---
 
 <div align="center">
