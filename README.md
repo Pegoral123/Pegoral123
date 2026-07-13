@@ -20,22 +20,30 @@
  
 ## 🚀 Projetos em Destaque
  
-### 🎓 [GerenciamentoMVP](https://github.com/Pegoral123/ApiGerenciamentoMVP) (FRONT-END:https://mvp-gestao-projetos-ads.vercel.app/) (BACK-END:https://mvp-gestaoprojetosads.onrender.com/api/schema/swagger-ui/)
-Sistema de gestão de projetos acadêmicos do curso de ADS, desenvolvido durante monitoria com o Prof. Rodrigo Braga.
-- **Backend:** Python 3.11 · Django + DRF · arquitetura em camadas (**View → Serializer → Service → Model**)
-- Autenticação JWT (djangorestframework-simplejwt) com rotação e blacklist de tokens
-- **Frontend:** React 19 + Vite + Tailwind CSS + Shadcn/Radix UI
-- Banco de dados **MySQL 8.0**, ambiente totalmente containerizado com **Docker Compose**
-- Documentação interativa via **Swagger/OpenAPI**
-- Testes automatizados com **pytest**
-- Em dupla com Amanda Lisbôa
-### 🌳 [Circuito Terê Verde](https://github.com/Pegoral123/circuito-tere-verde) *(https://projeto-mvp-mobile.vercel.app/)*
+## 🎓 [GerenciamentoMVP](https://github.com/Pegoral123/ApiGerenciamentoMVP)
+
+**[Frontend](https://mvp-gestao-projetos-ads.vercel.app/) · [Backend/Swagger](https://mvp-gestaoprojetosads.onrender.com/api/schema/swagger-ui/)**
+
+Sistema web para gestão de projetos acadêmicos do curso de ADS, desenvolvido durante monitoria orientada pelo Prof. Rodrigo Braga na UNIFESO.
+- **Backend:** Python 3.12 · Django 6 · Django REST Framework
+- Arquitetura em camadas: **View → Serializer → Service → ORM**
+- Autenticação JWT com access token (15min), refresh token (7 dias) e blacklist
+- Relação ManyToMany entre Alunos e Grupos com nota individual por aluno
+- **Frontend:** React 19 · Vite · Tailwind CSS · Shadcn/Radix UI
+- Banco de dados **PostgreSQL** (produção via Supabase) · **MySQL** (desenvolvimento)
+- Deploy contínuo: **Render** (backend) · **Vercel** (frontend)
+- Documentação interativa via **Swagger/OpenAPI 3** (drf-spectacular)
+- **40+ testes automatizados** com pytest-django
+- 
+- Desenvolvido em dupla com [Amanda Lisbôa](https://github.com/AmandaLisboa-Ramos)
+### 🌳 [Circuito Terê Verde](https://github.com/Pegoral123/circuito-tere-verde) *[Frontend](https://projeto-mvp-mobile.vercel.app/)*
 Plataforma full-stack de ecoturismo para Teresópolis-RJ, com foco em sustentabilidade.
 - **Backend:** Django + DRF · API RESTful com serialização aninhada e CORS configurado
 - **Frontend:** React + TypeScript + Vite + Tailwind CSS · aplicação **PWA**
 - Catálogo de parques e trilhas, painel administrativo via Django Admin
 - Deploy em produção: backend no **Render**, frontend na **Vercel**
 - Em dupla com Carlos Henrique
+- 
 ### ⚔️ Elden Wiki
 Projeto pessoal full-stack, criado por paixão a Elden Ring — meu jogo favorito — para estudar e me divertir programando. Wiki colaborativa com curiosidades, teorias e discussões sobre o universo do jogo.
 - **[Elden_Wiki_Back](https://github.com/Pegoral123/Elden_Wiki_Back)** — API REST em **Python + FastAPI**, servida via Uvicorn
