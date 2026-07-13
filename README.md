@@ -20,8 +20,7 @@
  
 ## 🚀 Projetos em Destaque
  
-### 🎓 [GerenciamentoMVP](https://github.com/Pegoral123/ApiGerenciamentoMVP) (FRONT-END:https://mvp-gestao-projetos-ads.vercel.app/
-BACK-END:https://mvp-gestaoprojetosads.onrender.com/api/schema/swagger-ui/)
+### 🎓 [GerenciamentoMVP](https://github.com/Pegoral123/ApiGerenciamentoMVP) (FRONT-END:https://mvp-gestao-projetos-ads.vercel.app/) (BACK-END:https://mvp-gestaoprojetosads.onrender.com/api/schema/swagger-ui/)
 Sistema de gestão de projetos acadêmicos do curso de ADS, desenvolvido durante monitoria com o Prof. Rodrigo Braga.
 - **Backend:** Python 3.11 · Django + DRF · arquitetura em camadas (**View → Serializer → Service → Model**)
 - Autenticação JWT (djangorestframework-simplejwt) com rotação e blacklist de tokens
